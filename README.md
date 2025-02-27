@@ -2,20 +2,27 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) GIT Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+![github](ilkrepo.jpg)
 
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
-Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+# Installation
+## Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+```
+git clone https://github.com/ermankutukcu/kodluyoruzrepo.git
+```
+
+## Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
 cd kodluyoruzilkrepo
 code .
 ```
-Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# Contributing
+## Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+------------------------------
 
 License
-MIT
+[MIT] (https://choosealicense.com/licenses/mit/)
