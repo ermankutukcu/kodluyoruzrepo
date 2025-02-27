@@ -5,6 +5,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) GIT Eğitiminde oluşturduğumu
 ![github](ilkrepo.jpg)
 
 # Installation
+* Clone işlemi yapılır.
+* VSC açılır
+
+
 ## Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
@@ -20,7 +24,9 @@ code .
 ```
 
 # Contributing
-## Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+## *Pull requestler* **kabul edilir**. ***Büyük değişiklikler için***, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+
 
 ------------------------------
 
